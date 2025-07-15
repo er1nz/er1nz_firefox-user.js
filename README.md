@@ -23,7 +23,7 @@ To make any lasting changes, you must edit the user.js file directly, as any mod
 
 **Recomended browser extensions:**
 
-- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) with [my settings](https://github.com/er1nz/er1nz_firefox-user.js/blob/ff2aa7e0051fbd12d97217065c61d169348db597/my-ublock-backup_2025-07-16_01.15.49.txt) 
 
 - [Bitwarden Password Manager](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
