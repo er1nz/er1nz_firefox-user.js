@@ -11,3 +11,15 @@ Tested on a Windows PC, Zen Browser.**
 4. Decluttered UI (Peskyfox & Customizations): Cleans up the user interface by removing sponsored content, disabling intrusive recommendations, hiding unnecessary UI elements like the bookmark bar, and streamlining the new tab page. It also includes quality-of-life improvements like text-only zoom and disabling annoying popups.
 5. User Control: Provides a solid foundation for users to build upon. The file is well-documented, with clear sections for different configurations, making it easy to customize and add personal overrides.
 This user.js is ideal for users who want to take full control of their browser, prioritizing a secure, private, and efficient web experience over default features.
+
+**Quick Installation Guide:**
+1. Open your browser (Firefox, Zen, or any other fork).
+2. Navigate to the about:profiles page by typing it into the address bar and pressing Enter.
+You will see a list of one or more profiles. Identify the profile that is currently in use (it will usually say "This is the profile in use and it cannot be deleted.").
+3. Click the "Open Directory" button next to the "Root Directory" path for that profile. This will open your profile folder in your system's file explorer.
+4. Download or copy the user.js file into this folder. If a user.js file already exists, you can overwrite it (be sure to back it up first if you have custom settings you want to save).
+5. Restart your browser completely for the new settings to take effect.
+To make any lasting changes, you must edit the user.js file directly, as any modifications made in about:config will be overwritten by the user.js on the next restart.
+
+
+
