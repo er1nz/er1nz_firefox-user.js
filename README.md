@@ -21,5 +21,24 @@ You will see a list of one or more profiles. Identify the profile that is curren
 5. Restart your browser completely for the new settings to take effect.
 To make any lasting changes, you must edit the user.js file directly, as any modifications made in about:config will be overwritten by the user.js on the next restart.
 
+**Recomended browser extensions:**
 
+[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
+[Bitwarden Password Manager](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
+[CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
+[ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
+[Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
+[I still don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
+[LocalCDN](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
+[Port Authority](https://addons.mozilla.org/en-US/firefox/addon/port-authority/)
+
+[Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
+[Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
