@@ -49,6 +49,6 @@ To make any lasting changes, you must edit the user.js file directly, as any mod
   
 - [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) *(Optional)*
 
-- [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) *Optional*
+- [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) *(Optional)*
 
-- [Riffle](https://addons.mozilla.org/ru/firefox/addon/riffle-searchable-heading/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) *Optional*
+- [Riffle](https://addons.mozilla.org/ru/firefox/addon/riffle-searchable-heading/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) *(Optional)*
