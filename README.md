@@ -41,13 +41,13 @@ To make any lasting changes, you must edit the user.js file directly, as any mod
 
 - [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
-- [SponsorBlock](https://addons.mozilla.org/ru/firefox/addon/sponsorblock/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) *Optional*
+- [SponsorBlock](https://addons.mozilla.org/ru/firefox/addon/sponsorblock/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) *(Optional)*
   
-- [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) *Optional*
+- [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) *(Optional)*
 
-- [Bonjourr](https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) *Optional*
+- [Bonjourr](https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) *(Optional)*
   
-- [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) *Optional*
+- [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) *(Optional)*
 
 - [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) *Optional*
 
