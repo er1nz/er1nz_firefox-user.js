@@ -95,7 +95,7 @@ To make any lasting changes, you must edit the user.js file directly, as any mod
 
 - [Riffle](https://addons.mozilla.org/ru/firefox/addon/riffle-searchable-heading/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) (Optional)
 
-  ## Credit
+## Credit
 * Modified by [er1nz](https://github.com/er1nz) for maxxed out performance. [Join my Telegram channel!](https://t.me/er1nz01)
 * Original Betterfox fork from [prettyleaf](https://github.com/prettyleaf) for everyday usage and perfomance.
 * Betterfox mirrors the ongoing work provided by [arkenfox](https://github.com/arkenfox/user.js). Additionally, this repository includes content reproduced or adapted from other sources. Credit for overlapping material goes to the original authors.
