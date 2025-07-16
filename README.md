@@ -17,7 +17,7 @@
 **Serves as a personal collection of tweaks and settings, combining the best practices from popular hardening projects like Betterfox and Arkenfox, along with custom user overrides.
 Tested on a Windows PC, Zen Browser.**
 
-**Key Features:**
+**Key Features**
 1. Performance Boost (Fastfox): Optimizes network settings, adjusts cache parameters, and disables speculative loading to provide a faster, more responsive browsing experience.
 2. Enhanced Security (Securefox): Aggressively disables telemetry, crash reporting, and data collection. It hardens browser security by disabling the built-in password and form managers, enforcing strict certificate pinning, and blocking remote Safe Browsing checks to minimize data leaks.
 3. Privacy Focused: Implements strict tracking protection, disables Firefox Sync and Pocket integration, and blocks access to sensitive permissions like geolocation, camera, and notifications by default.
@@ -63,7 +63,7 @@ You will see a list of one or more profiles. Identify the profile that is curren
 5. Restart your browser completely for the new settings to take effect.
 To make any lasting changes, you must edit the user.js file directly, as any modifications made in about:config will be overwritten by the user.js on the next restart.
 
-## Recomended browser extensions:
+## Recomended browser extensions
 
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) with [my settings](https://github.com/er1nz/er1nz_firefox-user.js/blob/ff2aa7e0051fbd12d97217065c61d169348db597/my-ublock-backup_2025-07-16_01.15.49.txt) 
 
