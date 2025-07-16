@@ -1,3 +1,14 @@
+# Betterfox
+
+> [!WARNING]
+> This repo is **Betterfox** fork. \
+> Check out the original [repository](https://github.com/yokoffing/Betterfox/).
+
+[about:config](https://support.mozilla.org/en-US/kb/about-config-editor-firefox) tweaks to enhance [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/).
+
+*If you don't have it already: [Get Zen](https://zen-browser.app/download/)*  
+*However, if you are in doubt about Zen, [Get Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release)*
+
 # er1nz_firefox-user.js
 **Comprehensive configuration file for Firefox and Zen-based browsers, meticulously crafted to enhance privacy, security, and performance.**
 
