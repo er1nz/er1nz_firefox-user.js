@@ -94,3 +94,11 @@ To make any lasting changes, you must edit the user.js file directly, as any mod
 - [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) (Optional)
 
 - [Riffle](https://addons.mozilla.org/ru/firefox/addon/riffle-searchable-heading/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) (Optional)
+
+  ## Credit
+* Modified by [er1nz](https://github.com/er1nz) for maxxed out performance. [Join my Telegram channel!](https://t.me/er1nz01)
+* Original Betterfox fork from [prettyleaf](https://github.com/prettyleaf) for everyday usage and perfomance.
+* Betterfox mirrors the ongoing work provided by [arkenfox](https://github.com/arkenfox/user.js). Additionally, this repository includes content reproduced or adapted from other sources. Credit for overlapping material goes to the original authors.
+* Appreciation goes to the [Firefox](https://www.mozilla.org/en-US/firefox/new/) team and developers working on [Bugzilla](https://bugzilla.mozilla.org/home), fighting for the open web.
+* A special thanks to [Alex Kontos](https://github.com/MrAlex94) of [Waterfox](https://github.com/WaterfoxCo/Waterfox) for his collaboration in v.116.
+* Many thanks to the 2021 [Ghostery](https://github.com/ghostery) team for testing Betterfox at scale in its early days.
